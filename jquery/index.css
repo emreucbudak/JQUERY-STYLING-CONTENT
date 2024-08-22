@@ -1,0 +1,7 @@
+/* JQUERYDE CSS ÖZELLIKLERI BELIRLEME */
+/* $(".class").css("color":"blue"); */
+/* var styles = {
+    color : "blue",
+    border : "1px solid blue"}
+    $(".class).css(styles);
+    EĞER ÖNCEKİ KONUMUZA EKLEME YAPACAK OLURSAK BİR TAGIN ICINDEKI TAGI ETKILEMEK ISTIYORSAK $("#li a") */
